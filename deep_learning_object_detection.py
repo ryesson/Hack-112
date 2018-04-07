@@ -1,7 +1,9 @@
 # USAGE
-
+# run in terminal:
 # python deep_learning_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
 
+
+#uses code from Adrian Rosebrock at PyImageSearch : https://www.pyimagesearch.com/2017/08/21/deep-learning-with-opencv/
 # import the necessary packages
 #import weakref
 import cv2
